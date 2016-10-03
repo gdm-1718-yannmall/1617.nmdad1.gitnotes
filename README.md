@@ -1,8 +1,13 @@
 My personal AHS information
 
-|:------------------ | ------------------ |
-| Student            | Yannick Mallefroy  |
-| Academiejaar       | 2016-17            |            
+|                     |                                |
+| ------------------  | ------------------------------ |
+| Student             | Yannick Mallefroy              |
+| Opleidingsonderdeel | New Media Design & Development |
+| Afstudeerrichting   | Multimediaproductie (MMP)      |
+| Specialisatie       | proDEV                         |
+| Academiejaar        | 2016-17                        |
+| Onderwijsinstelling | Arteveldehogeschool            |          
 
 Mappen
 ------
